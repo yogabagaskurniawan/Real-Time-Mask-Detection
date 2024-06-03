@@ -1,0 +1,3 @@
+0  tanpa_masker
+1 dengan_masker
+2 masker_usang_salah
